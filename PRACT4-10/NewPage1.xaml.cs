@@ -23,6 +23,6 @@ public partial class NewPage1 : ContentPage
 
     private void Button_Clicked_2(object sender, EventArgs e)
     {
-        Application.Current.Quit();
+        Application.Current.Quit();//CHV
     }
 }
